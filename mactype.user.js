@@ -9,7 +9,7 @@
 // @supportURL        https://github.com/syhyz1990/mactype
 // @updateURL         https://www.baiduyun.wiki/mactype.user.js
 // @downloadURL       https://www.baiduyun.wiki/mactype.user.js
-// @include           *
+// @match             *://*/*
 // @run-at            document-start
 // @grant             GM_addStyle
 // ==/UserScript==
