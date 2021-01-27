@@ -9,11 +9,11 @@
 
 现已升级到2.0版本，功能更加强大，支持自定义清晰都设置。
 
-### 🎨 脚本效果
+## 🎨 脚本效果
 
 ![](https://i.loli.net/2021/01/27/VYN5QTcWwDUSrdF.gif)
 
-### 🎨 设置清晰度
+## 🎨 设置清晰度
 
 首次安装后会自动弹出设置清晰度选项，滑动滑块可自行调整，数值越大，文字显示越清晰，默认为0.8，调节到0时恢复原始效果。
 
@@ -21,6 +21,6 @@
 
 ![](https://i.loli.net/2021/01/27/5rIxkp7jGoEiCfY.png)
 
-### 📖 让Windows实现MacOS渲染效果
+## 📖 让Windows实现MacOS渲染效果
 
 [点击查看](https://mp.weixin.qq.com/s/uCBoHZkJiFbd42RyRvQoUA)
