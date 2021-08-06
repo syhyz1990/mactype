@@ -10,7 +10,6 @@
 // @supportURL        https://github.com/syhyz1990/mactype
 // @require           https://cdn.jsdelivr.net/npm/sweetalert2@10.15.6/dist/sweetalert2.min.js
 // @resource          swalStyle https://cdn.jsdelivr.net/npm/sweetalert2@10.15.6/dist/sweetalert2.min.css
-// @require           https://js.users.51.la/21053225.js
 // @updateURL         https://www.baiduyun.wiki/mactype.user.js
 // @downloadURL       https://www.baiduyun.wiki/mactype.user.js
 // @match             *://*/*
