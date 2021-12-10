@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Chrome-≥76.0-brightgreen.svg" alt="chrome">
   <img src="https://img.shields.io/badge/Edge-≥88.0-brightgreen.svg" alt="edge">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-blue.svg" alt="platform">
-  <a href="https://www.baiduyun.wiki" title="点击访问">
+  <a href="https://www.youxiaohou.com" title="点击访问">
     <img src="https://img.shields.io/badge/Author-油小猴-red.svg">
   </a>
 </p>
@@ -29,7 +29,7 @@ Windows 下的浏览器浏览网页时文字往往发虚，颜色很淡，看不
 
 ## 💽 安装地址
 
-- **[安装地址（官方）](https://www.baiduyun.wiki/tool/install-mactype.html)**
+- **[安装地址（官方）](https://www.youxiaohou.com/tool/install-mactype.html)**
 
 - **[安装地址（GreasyFork）](https://greasyfork.org/zh-CN/scripts/436451)**
 
@@ -68,7 +68,7 @@ Windows 下的浏览器浏览网页时文字往往发虚，颜色很淡，看不
 字体安装完成后在 Chrome 设置中搜索 “字体”，找到 `自定义字体`，将选项里的四个字体均设置为 `XHei Intel`
 
 ![](https://cdn.jsdelivr.net/gh/youxiaohou/img/hsZCk6OobrK8BvQ.png)
-               
+
 ## 👻 配合 Mactype
 
 若想实现在 Windows 其他软件也实现相同的渲染效果，例如微信，QQ，文件管理器等软件等，可以参考
