@@ -29,9 +29,7 @@ Windows 下的浏览器浏览网页时文字往往发虚，颜色很淡，看不
 
 ## 💽 安装地址
 
-- **[安装地址（官方）](https://www.youxiaohou.com/tool/install-mactype.html)**
-
-- **[安装地址（GreasyFork）](https://greasyfork.org/zh-CN/scripts/436451)**
+- **[安装地址（推荐）](https://www.youxiaohou.com/tool/install-mactype.html)**
 
 ## 📝 更新日志
 
