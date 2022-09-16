@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name              Mactype助手
 // @namespace         https://github.com/syhyz1990/mactype
-// @version           2.2.0
-// @icon              https://www.youxiaohou.com/mactype.png
+// @version           2.2.2
 // @description       Windows下的浏览器浏览网页时文字往往发虚，颜色很淡，看不清楚。有了它可以让浏览器中显示的文字更加清晰，支持Chrome ，360 ，QQ ，Firfox ，Edge  等浏览器。
 // @author            YouXiaoHou
 // @license           MIT
@@ -18,6 +17,7 @@
 // @grant             GM_setValue
 // @grant             GM_registerMenuCommand
 // @grant             GM_getResourceText
+// @icon              data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTIwIDcuMWM0LjQgMCA4IDQuMSA4IDl2NzMuMmMwIDUtMy42IDktOCA5SDgwLjhsNy4yIDE2LjNjLjggMi4zIDAgNS0xLjYgNS45LS40LjUtMS4yLjUtMS42LjVINDMuNmMtMi40IDAtNC0xLjgtNC00LjUgMC0uOSAwLTEuNC40LTEuOGw3LjItMTYuM0g4Yy00LjQgMC04LTQuMS04LTlWMTYuMWMwLTUgMy42LTkgOC05aDExMnoiIGZpbGw9IiM0NDQiLz48cGF0aCBkPSJNMTAyLjMgMzQuN2ExNC4yOCAxNC4yOCAwIDAgMC02LjItNi4yYy0yLjctMS40LTUuMy0yLjItMTIuNi0yLjJINjkuMXY1NC42aDE0LjRjNy4zIDAgOS45LS44IDEyLjYtMi4yYTE1LjQyIDE1LjQyIDAgMCAwIDYuMi02LjJjMS40LTIuNyAyLjItNS4zIDIuMi0xMi42VjQ3LjNjMC03LjMtLjgtOS45LTIuMi0xMi42em0tOC43IDI4LjJjMCAyLjQtLjIgMy4zLS43IDQuMnMtMS4yIDEuNi0yLjEgMi4xYy0uOS40LTEuOC43LTQuMi43SDgwVjM3LjJoNi42YzIuNCAwIDMuMy4yIDQuMi43czEuNiAxLjIgMi4xIDIuMWMuNC45LjcgMS44LjcgNC4ydjE4Ljd6TTUwIDQ4LjFIMzYuM1YyNi4zSDI1LjR2NTQuNWgxMC45VjU5SDUwdjIxLjhoMTAuOVYyNi4zSDUwdjIxLjh6IiBmaWxsPSIjZmZmIi8+PC9zdmc+
 // ==/UserScript==
 
 (function () {
@@ -83,7 +83,7 @@
                 customClass: {
                     popup: 'mactype-popup',
                 },
-                footer: '<div style="text-align: center;font-size: 1em">点击查看 <a href="https://www.youxiaohou.com/tool/install-mactype.html" target="_blank">使用说明</a>，配合 <a href="https://www.youxiaohou.com/tool/install-mactype.html#增强显示" target="_blank">XHei字体</a> 更清晰，<a href="https://www.youxiaohou.com/tool/install-mactype.html">检查更新</a><svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="14" height="14"><path d="M445.956 138.812L240.916 493.9c-11.329 19.528-12.066 44.214 0 65.123 12.067 20.909 33.898 32.607 56.465 32.607h89.716v275.044c0 31.963 25.976 57.938 57.938 57.938h134.022c32.055 0 57.938-25.975 57.938-57.938V591.63h83.453c24.685 0 48.634-12.803 61.806-35.739 13.172-22.844 12.343-50.016 0-71.386l-199.42-345.693c-13.633-23.58-39.24-39.516-68.44-39.516-29.198 0-54.897 15.935-68.438 39.516z" fill="#d81e06"/></svg></div>',
+                footer: '<div style="text-align: center;font-size: 1em">点击查看 <a href="https://www.youxiaohou.com/tool/install-mactype.html" target="_blank">使用说明</a>，配合 <a href="https://www.youxiaohou.com/tool/install-mactype.html#增强显示" target="_blank">XHei字体</a> 更清晰，Powered by <a href="https://www.youxiaohou.com">油小猴</a></div>',
                 inputAttributes: {
                     min: 0,
                     max: 1,
