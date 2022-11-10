@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              Mactype助手
 // @namespace         https://github.com/syhyz1990/mactype
-// @version           2.2.2
+// @version           2.2.3
 // @description       Windows下的浏览器浏览网页时文字往往发虚，颜色很淡，看不清楚。有了它可以让浏览器中显示的文字更加清晰，支持Chrome ，360 ，QQ ，Firfox ，Edge  等浏览器。
 // @author            YouXiaoHou
 // @license           MIT
@@ -83,7 +83,7 @@
                 customClass: {
                     popup: 'mactype-popup',
                 },
-                footer: '<div style="text-align: center;font-size: 1em">点击查看 <a href="https://www.youxiaohou.com/tool/install-mactype.html" target="_blank">使用说明</a>，配合 <a href="https://www.youxiaohou.com/tool/install-mactype.html#增强显示" target="_blank">XHei字体</a> 更清晰，Powered by <a href="https://www.youxiaohou.com">油小猴</a></div>',
+                footer: '<div style="text-align: center;font-size: 1em">点击查看 <a href="https://www.youxiaohou.com/tool/install-mactype.html" target="_blank">使用说明</a>，配合 <a href="https://www.youxiaohou.com/tool/install-mactype.html#%F0%9F%92%BB-%E5%A2%9E%E5%BC%BA%E6%98%BE%E7%A4%BA" target="_blank">XHei字体</a> 更清晰，Powered by <a href="https://www.youxiaohou.com">油小猴</a></div>',
                 inputAttributes: {
                     min: 0,
                     max: 1,
@@ -134,6 +134,7 @@
             let val = util.getValue('current_val');
             return `
                 .mactype-popup { font-size: 14px!important }
+                .swal2-range input { -webkit-appearance: auto!important; appearance: auto;!important }
                 *:not(pre) { -webkit-text-stroke: ${val}px !important; text-stroke: ${val}px !important }
                 ::selection { color: #fff;background: #338fff }
             `;
