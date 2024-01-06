@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name              Mactype助手
 // @namespace         https://github.com/syhyz1990/mactype
-// @version           2.2.3
+// @version           2.2.5
 // @description       Windows下的浏览器浏览网页时文字往往发虚，颜色很淡，看不清楚。有了它可以让浏览器中显示的文字更加清晰，支持Chrome ，360 ，QQ ，Firfox ，Edge  等浏览器。
 // @author            YouXiaoHou
 // @license           MIT
 // @homepage          https://www.youxiaohou.com/tool/install-mactype.html
 // @supportURL        https://github.com/syhyz1990/mactype
-// @require           https://unpkg.com/sweetalert2@10.16.6/dist/sweetalert2.min.js
-// @resource          swalStyle https://unpkg.com/sweetalert2@10.16.6/dist/sweetalert2.min.css
+// @require           https://registry.npmmirror.com/sweetalert2/10.16.6/files/dist/sweetalert2.min.js
+// @resource          swalStyle https://registry.npmmirror.com/sweetalert2/10.16.6/files/dist/sweetalert2.min.css
 // @updateURL         https://www.youxiaohou.com/mactype.user.js
 // @downloadURL       https://www.youxiaohou.com/mactype.user.js
 // @match             *://*/*
