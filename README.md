@@ -32,7 +32,7 @@ Windows 下的浏览器浏览网页时文字往往发虚，颜色很淡，看不
 
 ## 🎨 效果演示
 
-![](https://cdn.jsdelivr.net/gh/youxiaohou/img/VYN5QTcWwDUSrdF.gif)
+![](https://pic.rmb.bdstatic.com/bjh/cf4d231111806e99a2134c855a744b885926.gif)
 
 ## 💽 安装地址
 
@@ -68,7 +68,7 @@ Windows 下的浏览器浏览网页时文字往往发虚，颜色很淡，看不
 
 可以在助手设置中重新找到本弹框。
 
-![](https://cdn.jsdelivr.net/gh/youxiaohou/img/5rIxkp7jGoEiCfY.png)
+![](https://pic.rmb.bdstatic.com/bjh/8d2ef37efee3519f28b4ff6a466c27ec1105.png)
 
 ## 💻 增强显示
 
@@ -76,7 +76,7 @@ Windows 下的浏览器浏览网页时文字往往发虚，颜色很淡，看不
 
 字体安装完成后在 Chrome 设置中搜索 “字体”，找到 `自定义字体`，将选项里的四个字体均设置为 `XHei Intel`
 
-![](https://cdn.jsdelivr.net/gh/youxiaohou/img/hsZCk6OobrK8BvQ.png)
+![](https://pic.rmb.bdstatic.com/bjh/7aefd17636f94c350eec00251a2737697501.png)
 
 ## 👻 配合 Mactype
 
@@ -87,6 +87,3 @@ Windows 下的浏览器浏览网页时文字往往发虚，颜色很淡，看不
 ## 🐞 Bug 反馈
 
 如果您在使用过程中遇到问题，请 [点击这里](https://wj.qq.com/s2/8150559/6c08/) 或 [发送邮件](mailto:mail@youxiaohou.com) 进行反馈。
-
-## 💻 防止迷路
-![](https://cdn.jsdelivr.net/gh/youxiaohou/img/cmqN5niG6ER9oZ2.png)
