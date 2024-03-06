@@ -38,6 +38,8 @@ Windows 下的浏览器浏览网页时文字往往发虚，颜色很淡，看不
 
 - **[安装地址（推荐）](https://www.youxiaohou.com/tool/install-mactype.html)**
 
+- **[English Version](https://github.com/syhyz1990/mactype/raw/master/mactype-en.user.js)**
+
 ## 📝 更新日志
 
 **v2.2.0** 加载逻辑重构，修复部分网站不生效或闪动后生效的问题。
